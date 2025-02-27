@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aniketkumar15" alt="aniketkumar15" /></a> </p>
 - 🌱 I’m currently learning **Java**
 
-- 👨‍💻 All of my projects are available at [https://aniketkumar15.github.io/ProjectPlexus/](https://aniketkumar15.github.io/ProjectPlexus/)
+- 👨‍💻 All of my projects are available at [https://aniket-kumar.vercel.app/](https://aniket-kumar.vercel.app/)
 
 - 📫 How to reach me **aniketkumar41322@gmail.com**
 
