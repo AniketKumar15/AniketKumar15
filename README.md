@@ -32,6 +32,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aniketkumar15&show_icons=true&locale=en" alt="aniketkumar15" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aniketkumar15&" alt="aniketkumar15" /></p>
+<p><img align="center" src="https://nirzak-streak-stats.vercel.app/?user=AniketKumar15&theme=radical&hide_border=false&" alt="aniketkumar15" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniketkumar15&label=Profile%20views&color=0e75b6&style=flat" alt="aniketkumar15" /> </p>
