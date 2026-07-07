@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 # 💫 About Me:
-🔭 I’m currently working on **Campus Connect Mern Stack Project**<br>🌱 I’m currently learning **Mern Stack**<br>💬 Ask me about **Game Developement & Web Development**<br>👨‍💻 All of my projects are available at [Portfolio](https://aniketkumar15.github.io/Portfolio-Aniket/)<br>📫 How to reach me aniket87091@gmail.com<br>⚡ Fun fact I love watching anime
+🔭 I’m currently working on **Campus Connect Mern Stack Project**<br>🌱 I’m currently learning **Mern Stack**<br>💬 Ask me about **Game Developement & Web Development**<br>👨‍💻 All of my projects are available at [Portfolio](https://aniket-kumar.vercel.app/)<br>📫 How to reach me aniket87091@gmail.com<br>⚡ Fun fact I love watching anime
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aniketkr_dev) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/anikumar_dev) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@dreamkillrop2037) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aniket87091@gamil.com) 
